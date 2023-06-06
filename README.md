@@ -12,6 +12,6 @@ Welcome to the Green Eye repository, the server-side component for the Mr. Green
 
 ## Technologies Used
 
-- Flutter: The Green Eye Backend is developed using Flutter, a cross-platform framework for building web and mobile applications.
+- Flutter: The Green Eye is developed using Flutter, a cross-platform framework for building web and mobile applications.
 
 - Solidity: Smart contracts, written in Solidity, are used for blockchain integration and enforcing rental agreements.
