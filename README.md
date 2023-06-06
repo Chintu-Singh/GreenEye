@@ -1,4 +1,4 @@
-# Green Eye Backend
+# Green Eye
 
 Welcome to the Green Eye repository, the server-side component for the Mr. Green Eye app. This Flutter web application serves as the backend for facilitating the rental of drones for crop disease and weed detection, as well as the rental of land to researchers.
 
